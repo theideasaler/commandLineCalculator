@@ -2,8 +2,7 @@
 //  main.m
 //  calc
 //
-//  Autor: Wei Liu
-//  Student ID: 12489656
+//  Autor: Neo
 //  Date: 18/04/2017
 //  Function: Command line caculator
 //

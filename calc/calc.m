@@ -2,8 +2,7 @@
 //  calc.m
 //  calc
 //
-//  Autor: Wei Liu
-//  Student ID: 12489656
+//  Autor:Neo
 //  Date: 18/04/2017
 //  Function: Classes Implementation
 //  Copyright © 2017 UTS. All rights reserved.
